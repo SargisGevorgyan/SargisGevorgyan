@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SargisGevorgyan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SargisGevorgyan 
+- Senior iOS Developer with 8 years of experience with strong background in mobile applications development
+- Experience in architecture, design and implementation of more than 60 iOS mobile applications
+- Project Deadlines Oriented Planning & Roadmap
+- Mobile apps development using OOP concepts and Design Patterns
+- Collaboration with the team
 
 <!---
 SargisGevorgyan/SargisGevorgyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
